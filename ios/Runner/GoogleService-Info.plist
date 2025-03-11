@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCoZ7hDiVKYPYLazGfOTnXYn4vKd2QYw7E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>792290703818</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.devman.cloneapp.bamtolMarket</string>
+	<key>PROJECT_ID</key>
+	<string>bamtol-eb9dd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bamtol-eb9dd.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:792290703818:ios:b390306e674fd2ddfdb733</string>
+</dict>
+</plist>

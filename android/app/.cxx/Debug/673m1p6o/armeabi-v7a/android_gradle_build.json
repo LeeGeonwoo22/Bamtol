@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/leegeonwoo22/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/leegeonwoo22/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/leegeonwoo22/project/bamtol_market/android/app/.cxx/Debug/673m1p6o/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/leegeonwoo22/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/leegeonwoo22/project/bamtol_market/android/app/.cxx/Debug/673m1p6o/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/leegeonwoo22/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/ndk/29.0.13113456/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/leegeonwoo22/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/ndk/29.0.13113456/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

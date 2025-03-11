@@ -1,0 +1,20 @@
+                        -H/Users/leegeonwoo22/development/flutter/packages/flutter_tools/gradle/src/main/groovy
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/leegeonwoo22/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/ndk/29.0.13113456
+-DCMAKE_ANDROID_NDK=/Users/leegeonwoo22/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/ndk/29.0.13113456
+-DCMAKE_TOOLCHAIN_FILE=/Users/leegeonwoo22/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/ndk/29.0.13113456/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/leegeonwoo22/Library/Java/JavaVirtualMachines/openjdk-23.0.2/Contents/Home/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/leegeonwoo22/project/bamtol_market/build/app/intermediates/cxx/Debug/673m1p6o/obj/armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/leegeonwoo22/project/bamtol_market/build/app/intermediates/cxx/Debug/673m1p6o/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/leegeonwoo22/project/bamtol_market/android/app/.cxx/Debug/673m1p6o/armeabi-v7a
+-GNinja
+-Wno-dev
+--no-warn-unused-cli
+                        Build command args: []
+                        Version: 2

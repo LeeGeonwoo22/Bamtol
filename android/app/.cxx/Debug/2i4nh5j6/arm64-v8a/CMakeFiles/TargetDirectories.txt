@@ -1,0 +1,2 @@
+/Users/leegeonwoo22/project/bamtol_market/android/app/.cxx/Debug/2i4nh5j6/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/leegeonwoo22/project/bamtol_market/android/app/.cxx/Debug/2i4nh5j6/arm64-v8a/CMakeFiles/rebuild_cache.dir

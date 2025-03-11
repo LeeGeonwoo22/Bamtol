@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792290703818",
+    "project_id": "bamtol-eb9dd",
+    "storage_bucket": "bamtol-eb9dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792290703818:android:7b97855ada3f7139fdb733",
+        "android_client_info": {
+          "package_name": "bamtol.cloneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3xpH-kjPDFkLp7VI5a-IwvuoYTITxcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792290703818:android:313ba5c6122f2bbffdb733",
+        "android_client_info": {
+          "package_name": "com.devman.cloneapp.bamtol_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3xpH-kjPDFkLp7VI5a-IwvuoYTITxcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
